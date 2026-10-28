@@ -1,0 +1,17 @@
+{
+  "phone": {
+    "version": "1.0.0",
+    "changes": ["Lançamento"],
+    "url": "https://portal.cfx.re/assets/granted-assets"
+  },
+  "phone_smartphone": {
+    "version": "1.0.0",
+    "changes": ["Lançamento"],
+    "url": "https://portal.cfx.re/assets/granted-assets"
+  },
+  "kayfy": {
+    "version": "1.0.0",
+    "changes": ["Lançamento"],
+    "url": "https://portal.cfx.re/assets/granted-assets"
+  }
+}
